@@ -1,0 +1,4 @@
+Building noocoin
+See doc/readme-qt.rst for instructions on building noocoin QT.
+
+See doc/build-*.txt for instructions on building noocoind.
